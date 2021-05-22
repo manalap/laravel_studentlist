@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+Opiskelija lista, voi luoda, päivitä uusia, Mysql database
 
 ![alt text](https://github.com/manalap/laravel_studentlist/blob/master/opiskelijat.PNG?raw=true)
