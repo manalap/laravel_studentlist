@@ -4,4 +4,4 @@
 
 <p>Opiskelija lista, voi luoda, päivitä uusia, Mysql database</p>
 
-![alt text](https://github.com/manalap/laravel_studentlist/blob/master/opiskelijat.PNG?raw=true)
+<p>![alt text](https://github.com/manalap/laravel_studentlist/blob/master/opiskelijat.PNG?raw=true)</p>
