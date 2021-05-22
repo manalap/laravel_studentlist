@@ -3,12 +3,12 @@
         <table class="table table-sm">
             <thead class="table-light">
             <tr>
-                <th scope="col">CNE</th>
-                <th scope="col">First name</th>
-                <th scope="col">Last name</th>
-                <th scope="col">Age</th>
-                <th scope="col">Speciality</th>
-                <th scope="col">Operations</th>
+                <th scope="col">ID</th>
+                <th scope="col">Nimi</th>
+                <th scope="col">Sukunimi</th>
+                <th scope="col">Ikä</th>
+                <th scope="col">Tiedot</th>
+                <th scope="col">Tehtävät</th>
             </tr>
             </thead>
             <tbody>
@@ -23,7 +23,7 @@
                     <td>{{ $student->Speciality }} </td>
                     <td>
 
-                        <a href="{{url('/edit/'.$student->id)}}" class="btn btn-sm btn-warning">Edit</a>
+                        <a href="{{url('/edit/'.$student->id)}}" class="btn btn-sm btn-warning">Päivitä</a>
 
                     </td>
                 </tr>
